@@ -1,7 +1,7 @@
 # OwnYourHealthData
 Own Your Health Data Act for Massachusetts
 
-## Download the PDF
+## Download the Comic (PDF)
 https://github.com/goinvo/OwnYourHealthData/raw/main/OwnYourHealthData_Comic.pdf
 
 
