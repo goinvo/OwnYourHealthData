@@ -4,6 +4,9 @@ Own Your Health Data Act for Massachusetts
 ## Download the Comic (PDF)
 https://github.com/goinvo/OwnYourHealthData/raw/main/OwnYourHealthData_Comic.pdf
 
+## STATnews published our cut on "It’s time for individuals — not doctors or companies — to own their health data":
+https://www.statnews.com/2021/11/15/its-time-for-individuals-not-doctors-or-companies-to-own-their-health-data/
+
 
 ## Accompanying Documents
   
